@@ -181,3 +181,13 @@ This performs:
 - **Mean ± standard deviation** accuracy computation
 - **Automatic saving** of results (JSON) and forecast plots (PNG/JPG)
 
+
+## 📚 Data Sources
+This project uses publicly available PJM hourly load.
+
+## 👤 Author
+
+**Erfan Esmaeili**  
+Machine Learning Researcher — Energy, Finance, AI Systems  
+GitHub: [erfanili](https://github.com/erfanili)  
+Website: https://erfanili.github.io  
